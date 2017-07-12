@@ -2,8 +2,16 @@
 #include "glad/glad.h"
 #include <GLFW/glfw3.h>
 
+[[deprecated("This function is deprecated")]]
+void test()
+{
+    return;
+}
 int main()
 {
+    test();
+    [[maybe_unused]]
+    int i = 0;
     if(!glfwInit())
     {
         std::cerr << "Could not start glfw: critical error" << std::endl;
@@ -14,6 +22,7 @@ int main()
 
     gladLoadGLLoader((GLADloadproc) glfwGetProcAddress);
 
+    glfwSwapInterval(1);
     while (!glfwWindowShouldClose(window))
     {
         glfwPollEvents();
