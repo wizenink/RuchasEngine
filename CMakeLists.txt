@@ -11,6 +11,7 @@ set(GLFW_BUILD_TESTS OFF CACHE BOOL "" FORCE)
 set(GLFW_BUILD_EXAMPLES OFF CACHE BOOL "" FORCE)
 
 add_subdirectory(glfw)
+add_definitions(-DGLFW_INCLUDE_NONE)
 include_directories (${CMAKE_PROJECT_DIR}/src)
 
 option (testing "Enable Google Test" ON)
@@ -31,7 +32,7 @@ else (DOXYGEN_FOUND)
 	message("Doxygen must be installed to generate the doxygen documentation")
 endif (DOXYGEN_FOUND)
 
-set (SOURCE_FILES src/main.cpp src/glad/glad.c)
+set (SOURCE_FILES src/main.cpp src/glad/glad.c src/window/window.h src/window/window.cpp)
 if (testing)
 
 	message("Testing enabled")

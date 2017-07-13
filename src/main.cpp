@@ -1,37 +1,29 @@
 #include <iostream>
 #include "glad/glad.h"
 #include <GLFW/glfw3.h>
-
-[[deprecated("This function is deprecated")]]
-void test()
-{
-    return;
-}
+#include "window/window.h"
 int main()
 {
-    test();
-    [[maybe_unused]]
-    int i = 0;
     if(!glfwInit())
     {
         std::cerr << "Could not start glfw: critical error" << std::endl;
+        return -1;
     }
 
-    GLFWwindow *window = glfwCreateWindow(1920,1080,"title",NULL,NULL);
-    glfwMakeContextCurrent(window);
-
-    gladLoadGLLoader((GLADloadproc) glfwGetProcAddress);
-
-    glfwSwapInterval(1);
-    while (!glfwWindowShouldClose(window))
+    Window window(1920,1080,"Joseme sucio",false);
+    window.takeContext();
+    if(!gladLoadGLLoader((GLADloadproc) glfwGetProcAddress))
     {
-        glfwPollEvents();
-        glClearColor(1.0f, 0.0f, 0.0f, 1.0f);
-        glClear(GL_COLOR_BUFFER_BIT);
-
-        glfwSwapBuffers(window);
+        std::cerr << "Could not start GLAD: critical error" << std::endl;
+        return -1;
     }
-
-   std::cout << "prueba" << std::endl;
+    printf("Vendor:   %s\n", glGetString(GL_VENDOR));
+    printf("Renderer: %s\n", glGetString(GL_RENDERER));
+    printf("Version:  %s\n", glGetString(GL_VERSION));
+    while(window.shouldClose() != 1)
+    {
+       window.swapBuffers();
+    }
+    glfwTerminate();
 }
 
