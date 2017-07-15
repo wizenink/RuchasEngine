@@ -32,7 +32,7 @@ else (DOXYGEN_FOUND)
 	message("Doxygen must be installed to generate the doxygen documentation")
 endif (DOXYGEN_FOUND)
 
-set (SOURCE_FILES src/main.cpp src/glad/glad.c src/window/window.h src/window/window.cpp)
+set (SOURCE_FILES src/main.cpp src/glad/glad.c src/window/window.h src/window/window.cpp src/shaders/shader.h src/shaders/shader.cpp)
 if (testing)
 
 	message("Testing enabled")

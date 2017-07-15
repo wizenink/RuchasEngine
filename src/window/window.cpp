@@ -25,10 +25,14 @@ int Window::getWidth() const noexcept
     return m_width;
 }
 
+void Window::clear()
+{
+	glClear(GL_COLOR_BUFFER_BIT | GL_DEPTH_BUFFER_BIT);
+	glClearColor(0.0f, 0.0f, 1.0f, 0.0f);
+}
 void Window::swapBuffers()
 {
-    glClear(GL_COLOR_BUFFER_BIT|GL_DEPTH_BUFFER_BIT);
-    glClearColor(0.0f,0.0f,1.0f,0.0f);
+
     glfwPollEvents();
     glfwSwapBuffers(m_window);
 }

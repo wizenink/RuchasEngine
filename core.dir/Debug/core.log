@@ -1,0 +1,353 @@
+﻿  main.cpp
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\eh.h(31): warning C4987: se usó una extensión no estándar: 'throw (...)'
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\vcruntime_exception.h(25): warning C4820: '__std_exception_data': '3' bytes de relleno agregados después de miembro de datos '__std_exception_data::_DoFree'
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\iosfwd(356): warning C4365: 'return': conversión de 'int' en 'std::char_traits<wchar_t>::int_type'; no coinciden signed/unsigned
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\iosfwd(452): warning C4365: 'return': conversión de 'int' en 'std::char_traits<unsigned short>::int_type'; no coinciden signed/unsigned
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\vcruntime_typeinfo.h(41): warning C4820: '__std_type_info_data': '3' bytes de relleno agregados después de miembro de datos '__std_type_info_data::_DecoratedName'
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\vcruntime_typeinfo.h(41): warning C4623: '__std_type_info_data': el constructor predeterminado se definió implícitamente como eliminado
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\vcruntime_typeinfo.h(41): warning C4626: '__std_type_info_data': el operador de asignaciones se definió implícitamente como eliminado
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\vcruntime_typeinfo.h(41): warning C5027: '__std_type_info_data': el operador de asignaciones de movimiento se definió implícitamente como eliminado
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xutility(3694): warning C4820: 'std::_Yarn<char>': '3' bytes de relleno agregados después de miembro de datos 'std::_Yarn<char>::_Nul'
+  S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocinfo(227): note: vea la referencia a la creación de instancias de plantilla clase de 'std::_Yarn<char>' que se está compilando
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xutility(3694): warning C4820: 'std::_Yarn<wchar_t>': '2' bytes de relleno agregados después de miembro de datos 'std::_Yarn<wchar_t>::_Nul'
+  S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocinfo(229): note: vea la referencia a la creación de instancias de plantilla clase de 'std::_Yarn<wchar_t>' que se está compilando
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocale(241): warning C4820: 'std::locale::_Locimp': '3' bytes de relleno agregados después de miembro de datos 'std::locale::_Locimp::_Xparent'
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocale(483): warning C4820: 'std::locale': '3' bytes de relleno agregados después de miembro de datos 'std::locale::_Badname'
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocale(118): warning C4365: '=': conversión de 'int' en '::size_t'; no coinciden signed/unsigned
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocale(314): warning C4530: Se ha utilizado el controlador de excepciones de C++, pero la semántica de desenredo no está habilitada. Especifique /EHsc
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocale(801): warning C4625: 'std::codecvt_base': el constructor de copias se definió implícitamente como eliminado
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocale(801): warning C4626: 'std::codecvt_base': el operador de asignaciones se definió implícitamente como eliminado
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocale(1261): warning C4625: 'std::codecvt<char16_t,char,_Mbstatet>': el constructor de copias se definió implícitamente como eliminado
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocale(1261): warning C4626: 'std::codecvt<char16_t,char,_Mbstatet>': el operador de asignaciones se definió implícitamente como eliminado
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocale(1057): warning C4365: '=': conversión de 'int' en 'unsigned long'; no coinciden signed/unsigned
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocale(1059): warning C4365: '=': conversión de 'int' en 'unsigned long'; no coinciden signed/unsigned
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocale(1061): warning C4365: '=': conversión de 'int' en 'unsigned long'; no coinciden signed/unsigned
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocale(1063): warning C4365: '=': conversión de 'int' en 'unsigned long'; no coinciden signed/unsigned
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocale(1147): warning C4365: '=': conversión de 'int' en 'unsigned long'; no coinciden signed/unsigned
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocale(1151): warning C4365: '=': conversión de 'int' en 'unsigned long'; no coinciden signed/unsigned
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocale(1528): warning C4625: 'std::codecvt<char32_t,char,_Mbstatet>': el constructor de copias se definió implícitamente como eliminado
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocale(1528): warning C4626: 'std::codecvt<char32_t,char,_Mbstatet>': el operador de asignaciones se definió implícitamente como eliminado
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocale(1369): warning C4365: '=': conversión de 'int' en 'unsigned long'; no coinciden signed/unsigned
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocale(1371): warning C4365: '=': conversión de 'int' en 'unsigned long'; no coinciden signed/unsigned
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocale(1373): warning C4365: '=': conversión de 'int' en 'unsigned long'; no coinciden signed/unsigned
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocale(1375): warning C4365: '=': conversión de 'int' en 'unsigned long'; no coinciden signed/unsigned
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocale(1776): warning C4625: 'std::codecvt<wchar_t,char,_Mbstatet>': el constructor de copias se definió implícitamente como eliminado
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocale(1776): warning C4626: 'std::codecvt<wchar_t,char,_Mbstatet>': el operador de asignaciones se definió implícitamente como eliminado
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocale(1620): warning C4365: 'argumento': conversión de 'int' en '::size_t'; no coinciden signed/unsigned
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocale(1686): warning C4365: 'argumento': conversión de 'int' en '::size_t'; no coinciden signed/unsigned
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocale(1715): warning C4365: 'argumento': conversión de 'int' en '::size_t'; no coinciden signed/unsigned
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocale(1736): warning C4365: 'argumento': conversión de 'int' en '::size_t'; no coinciden signed/unsigned
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocale(2025): warning C4625: 'std::codecvt<unsigned short,char,_Mbstatet>': el constructor de copias se definió implícitamente como eliminado
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocale(2025): warning C4626: 'std::codecvt<unsigned short,char,_Mbstatet>': el operador de asignaciones se definió implícitamente como eliminado
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocale(1869): warning C4365: 'argumento': conversión de 'int' en '::size_t'; no coinciden signed/unsigned
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocale(1935): warning C4365: 'argumento': conversión de 'int' en '::size_t'; no coinciden signed/unsigned
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocale(1964): warning C4365: 'argumento': conversión de 'int' en '::size_t'; no coinciden signed/unsigned
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocale(1985): warning C4365: 'argumento': conversión de 'int' en '::size_t'; no coinciden signed/unsigned
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocale(2073): warning C4625: 'std::ctype_base': el constructor de copias se definió implícitamente como eliminado
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocale(2073): warning C4626: 'std::ctype_base': el operador de asignaciones se definió implícitamente como eliminado
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocale(2528): warning C4625: 'std::ctype<char>': el constructor de copias se definió implícitamente como eliminado
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocale(2528): warning C4626: 'std::ctype<char>': el operador de asignaciones se definió implícitamente como eliminado
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocale(2509): warning C4365: 'argumento': conversión de 'int' en '::size_t'; no coinciden signed/unsigned
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocale(2522): warning C4365: 'argumento': conversión de 'int' en '::size_t'; no coinciden signed/unsigned
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocale(2751): warning C4625: 'std::ctype<wchar_t>': el constructor de copias se definió implícitamente como eliminado
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocale(2751): warning C4626: 'std::ctype<wchar_t>': el operador de asignaciones se definió implícitamente como eliminado
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocale(2976): warning C4625: 'std::ctype<unsigned short>': el constructor de copias se definió implícitamente como eliminado
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocale(2976): warning C4626: 'std::ctype<unsigned short>': el operador de asignaciones se definió implícitamente como eliminado
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocale(3021): warning C4625: 'std::ctype_byname<char>': el constructor de copias se definió implícitamente como eliminado
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocale(3021): warning C4626: 'std::ctype_byname<char>': el operador de asignaciones se definió implícitamente como eliminado
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocale(925): warning C4625: 'std::codecvt<char,char,_Mbstatet>': el constructor de copias se definió implícitamente como eliminado
+  S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocale(3026): note: vea la referencia a la creación de instancias de plantilla clase de 'std::codecvt<char,char,_Mbstatet>' que se está compilando
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocale(925): warning C4626: 'std::codecvt<char,char,_Mbstatet>': el operador de asignaciones se definió implícitamente como eliminado
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\system_error(605): warning C4625: 'std::_Generic_error_category': el constructor de copias se definió implícitamente como eliminado
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\system_error(605): warning C5026: 'std::_Generic_error_category': el constructor de movimiento se definió implícitamente como eliminado
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\system_error(605): warning C4626: 'std::_Generic_error_category': el operador de asignaciones se definió implícitamente como eliminado
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\system_error(605): warning C5027: 'std::_Generic_error_category': el operador de asignaciones de movimiento se definió implícitamente como eliminado
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\system_error(629): warning C4625: 'std::_Iostream_error_category': el constructor de copias se definió implícitamente como eliminado
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\system_error(629): warning C5026: 'std::_Iostream_error_category': el constructor de movimiento se definió implícitamente como eliminado
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\system_error(629): warning C4626: 'std::_Iostream_error_category': el operador de asignaciones se definió implícitamente como eliminado
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\system_error(629): warning C5027: 'std::_Iostream_error_category': el operador de asignaciones de movimiento se definió implícitamente como eliminado
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\system_error(672): warning C4625: 'std::_System_error_category': el constructor de copias se definió implícitamente como eliminado
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\system_error(672): warning C5026: 'std::_System_error_category': el constructor de movimiento se definió implícitamente como eliminado
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\system_error(672): warning C4626: 'std::_System_error_category': el operador de asignaciones se definió implícitamente como eliminado
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\system_error(672): warning C5027: 'std::_System_error_category': el operador de asignaciones de movimiento se definió implícitamente como eliminado
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xiosbase(646): warning C4820: 'std::ios_base': '4' bytes de relleno agregados después de miembro de datos 'std::ios_base::_Ploc'
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocnum(265): warning C4820: 'std::numpunct<char>': '2' bytes de relleno agregados después de miembro de datos 'std::numpunct<char>::_Kseparator'
+  S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocnum(1659): note: vea la referencia a la creación de instancias de plantilla clase de 'std::numpunct<char>' que se está compilando
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocnum(267): warning C4625: 'std::numpunct<char>': el constructor de copias se definió implícitamente como eliminado
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocnum(267): warning C4626: 'std::numpunct<char>': el operador de asignaciones se definió implícitamente como eliminado
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocnum(1212): warning C4625: 'std::num_get<char,std::istreambuf_iterator<char,std::char_traits<char>>>': el constructor de copias se definió implícitamente como eliminado
+  S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocnum(1661): note: vea la referencia a la creación de instancias de plantilla clase de 'std::num_get<char,std::istreambuf_iterator<char,std::char_traits<char>>>' que se está compilando
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocnum(1212): warning C4626: 'std::num_get<char,std::istreambuf_iterator<char,std::char_traits<char>>>': el operador de asignaciones se definió implícitamente como eliminado
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocnum(1649): warning C4625: 'std::num_put<char,std::ostreambuf_iterator<char,std::char_traits<char>>>': el constructor de copias se definió implícitamente como eliminado
+  S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocnum(1663): note: vea la referencia a la creación de instancias de plantilla clase de 'std::num_put<char,std::ostreambuf_iterator<char,std::char_traits<char>>>' que se está compilando
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocnum(1649): warning C4626: 'std::num_put<char,std::ostreambuf_iterator<char,std::char_traits<char>>>': el operador de asignaciones se definió implícitamente como eliminado
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocnum(267): warning C4625: 'std::numpunct<wchar_t>': el constructor de copias se definió implícitamente como eliminado
+  S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocnum(1665): note: vea la referencia a la creación de instancias de plantilla clase de 'std::numpunct<wchar_t>' que se está compilando
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocnum(267): warning C4626: 'std::numpunct<wchar_t>': el operador de asignaciones se definió implícitamente como eliminado
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocnum(1212): warning C4625: 'std::num_get<wchar_t,std::istreambuf_iterator<wchar_t,std::char_traits<wchar_t>>>': el constructor de copias se definió implícitamente como eliminado
+  S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocnum(1667): note: vea la referencia a la creación de instancias de plantilla clase de 'std::num_get<wchar_t,std::istreambuf_iterator<wchar_t,std::char_traits<wchar_t>>>' que se está compilando
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocnum(1212): warning C4626: 'std::num_get<wchar_t,std::istreambuf_iterator<wchar_t,std::char_traits<wchar_t>>>': el operador de asignaciones se definió implícitamente como eliminado
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocnum(1649): warning C4625: 'std::num_put<wchar_t,std::ostreambuf_iterator<wchar_t,std::char_traits<wchar_t>>>': el constructor de copias se definió implícitamente como eliminado
+  S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocnum(1669): note: vea la referencia a la creación de instancias de plantilla clase de 'std::num_put<wchar_t,std::ostreambuf_iterator<wchar_t,std::char_traits<wchar_t>>>' que se está compilando
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocnum(1649): warning C4626: 'std::num_put<wchar_t,std::ostreambuf_iterator<wchar_t,std::char_traits<wchar_t>>>': el operador de asignaciones se definió implícitamente como eliminado
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\ios(194): warning C4820: 'std::basic_ios<char,std::char_traits<char>>': '7' bytes de relleno agregados después de miembro de datos 'std::basic_ios<char,std::char_traits<char>>::_Fillch'
+  S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\ios(200): note: vea la referencia a la creación de instancias de plantilla clase de 'std::basic_ios<char,std::char_traits<char>>' que se está compilando
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\ios(194): warning C4820: 'std::basic_ios<wchar_t,std::char_traits<wchar_t>>': '6' bytes de relleno agregados después de miembro de datos 'std::basic_ios<wchar_t,std::char_traits<wchar_t>>::_Fillch'
+  S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\ios(202): note: vea la referencia a la creación de instancias de plantilla clase de 'std::basic_ios<wchar_t,std::char_traits<wchar_t>>' que se está compilando
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\istream(880): warning C4820: 'std::basic_istream<char,std::char_traits<char>>': '4' bytes de relleno agregados después de miembro de datos 'std::basic_istream<char,std::char_traits<char>>::_Chcount'
+  S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\istream(912): note: vea la referencia a la creación de instancias de plantilla clase de 'std::basic_istream<char,std::char_traits<char>>' que se está compilando
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\istream(880): warning C4820: 'std::basic_istream<wchar_t,std::char_traits<wchar_t>>': '4' bytes de relleno agregados después de miembro de datos 'std::basic_istream<wchar_t,std::char_traits<wchar_t>>::_Chcount'
+  S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\istream(913): note: vea la referencia a la creación de instancias de plantilla clase de 'std::basic_istream<wchar_t,std::char_traits<wchar_t>>' que se está compilando
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\istream(974): warning C4820: 'std::basic_iostream<char,std::char_traits<char>>': '4' bytes de relleno agregados después de miembro de datos 'std::basic_iostream<char,std::char_traits<char>>::~basic_iostream'
+  S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\istream(981): note: vea la referencia a la creación de instancias de plantilla clase de 'std::basic_iostream<char,std::char_traits<char>>' que se está compilando
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\istream(974): warning C4820: 'std::basic_iostream<char,std::char_traits<char>>': '4' bytes de relleno agregados después de miembro de datos '<alignment member>'
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\istream(974): warning C4820: 'std::basic_iostream<wchar_t,std::char_traits<wchar_t>>': '4' bytes de relleno agregados después de miembro de datos 'std::basic_iostream<wchar_t,std::char_traits<wchar_t>>::~basic_iostream'
+  S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\istream(982): note: vea la referencia a la creación de instancias de plantilla clase de 'std::basic_iostream<wchar_t,std::char_traits<wchar_t>>' que se está compilando
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\istream(974): warning C4820: 'std::basic_iostream<wchar_t,std::char_traits<wchar_t>>': '4' bytes de relleno agregados después de miembro de datos '<alignment member>'
+S:\RuchasEngine\glfw\include\GLFW/glfw3.h(1536): warning C4820: 'GLFWgamepadstate': '1' bytes de relleno agregados después de miembro de datos 'GLFWgamepadstate::buttons'
+s:\ruchasengine\src\window/window.h(5): warning C4464: la ruta de acceso de inclusión relativa contiene '... '
+s:\ruchasengine\src\window/window.h(47): warning C4626: 'Window': el operador de asignaciones se definió implícitamente como eliminado
+s:\ruchasengine\src\shaders\shader.h(4): warning C4464: la ruta de acceso de inclusión relativa contiene '... '
+s:\ruchasengine\src\shaders\shader.h(5): warning C4464: la ruta de acceso de inclusión relativa contiene '... '
+S:\RuchasEngine\src\main.cpp(36): warning C4191: 'conversión de tipo': conversión no segura de 'GLFWglproc (__cdecl *)(const char *)' a 'GLADloadproc'
+          Llamar a esta función mediante el puntero de resultados puede causar un error del programa
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\streambuf(675): warning C4820: 'std::ostreambuf_iterator<wchar_t,std::char_traits<wchar_t>>': '3' bytes de relleno agregados después de miembro de datos 'std::ostreambuf_iterator<wchar_t,std::char_traits<wchar_t>>::_Failed'
+  S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocnum(1436): note: vea la referencia a la creación de instancias de plantilla clase de 'std::ostreambuf_iterator<wchar_t,std::char_traits<wchar_t>>' que se está compilando
+  S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocnum(1436): note: durante la compilación de la función miembro de plantilla clase de 'std::ostreambuf_iterator<wchar_t,std::char_traits<wchar_t>> std::num_put<wchar_t,std::ostreambuf_iterator<wchar_t,std::char_traits<wchar_t>>>::do_put(_OutIt,std::ios_base &,_Elem,const void *) const'
+          with
+          [
+              _OutIt=std::ostreambuf_iterator<wchar_t,std::char_traits<wchar_t>>,
+              _Elem=wchar_t
+          ]
+  S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocnum(1669): note: vea la referencia a la creación de instancias de plantilla clase de 'std::num_put<wchar_t,std::ostreambuf_iterator<wchar_t,std::char_traits<wchar_t>>>' que se está compilando
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocnum(1440): warning C4365: 'argumento': conversión de 'int' en '::size_t'; no coinciden signed/unsigned
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocnum(1431): warning C4365: 'argumento': conversión de 'int' en '::size_t'; no coinciden signed/unsigned
+  S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocnum(1412): note: durante la compilación de la función miembro de plantilla clase de 'std::ostreambuf_iterator<wchar_t,std::char_traits<wchar_t>> std::num_put<wchar_t,std::ostreambuf_iterator<wchar_t,std::char_traits<wchar_t>>>::do_put(_OutIt,std::ios_base &,_Elem,long double) const'
+          with
+          [
+              _OutIt=std::ostreambuf_iterator<wchar_t,std::char_traits<wchar_t>>,
+              _Elem=wchar_t
+          ]
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocnum(1429): warning C4774: 'sprintf_s' : la cadena de formato esperada en el argumento 3 no es un literal de cadena
+  S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocnum(1429): note: por ejemplo, en lugar de printf(name); utilice printf ("%s", name); porque los especificadores de formato en 'name' pueden suponer un problema de seguridad
+  S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocnum(1429): note: considere el uso del especificador constexpr para literales de cadena con nombre
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocnum(1407): warning C4365: 'argumento': conversión de 'int' en '::size_t'; no coinciden signed/unsigned
+  S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocnum(1388): note: durante la compilación de la función miembro de plantilla clase de 'std::ostreambuf_iterator<wchar_t,std::char_traits<wchar_t>> std::num_put<wchar_t,std::ostreambuf_iterator<wchar_t,std::char_traits<wchar_t>>>::do_put(_OutIt,std::ios_base &,_Elem,double) const'
+          with
+          [
+              _OutIt=std::ostreambuf_iterator<wchar_t,std::char_traits<wchar_t>>,
+              _Elem=wchar_t
+          ]
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocnum(1405): warning C4774: 'sprintf_s' : la cadena de formato esperada en el argumento 3 no es un literal de cadena
+  S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocnum(1405): note: por ejemplo, en lugar de printf(name); utilice printf ("%s", name); porque los especificadores de formato en 'name' pueden suponer un problema de seguridad
+  S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocnum(1405): note: considere el uso del especificador constexpr para literales de cadena con nombre
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocnum(1383): warning C4365: 'argumento': conversión de 'int' en '::size_t'; no coinciden signed/unsigned
+  S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocnum(1378): note: durante la compilación de la función miembro de plantilla clase de 'std::ostreambuf_iterator<wchar_t,std::char_traits<wchar_t>> std::num_put<wchar_t,std::ostreambuf_iterator<wchar_t,std::char_traits<wchar_t>>>::do_put(_OutIt,std::ios_base &,_Elem,unsigned __int64) const'
+          with
+          [
+              _OutIt=std::ostreambuf_iterator<wchar_t,std::char_traits<wchar_t>>,
+              _Elem=wchar_t
+          ]
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocnum(1382): warning C4774: 'sprintf_s' : la cadena de formato esperada en el argumento 3 no es un literal de cadena
+  S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocnum(1382): note: por ejemplo, en lugar de printf(name); utilice printf ("%s", name); porque los especificadores de formato en 'name' pueden suponer un problema de seguridad
+  S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocnum(1382): note: considere el uso del especificador constexpr para literales de cadena con nombre
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocnum(1373): warning C4365: 'argumento': conversión de 'int' en '::size_t'; no coinciden signed/unsigned
+  S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocnum(1368): note: durante la compilación de la función miembro de plantilla clase de 'std::ostreambuf_iterator<wchar_t,std::char_traits<wchar_t>> std::num_put<wchar_t,std::ostreambuf_iterator<wchar_t,std::char_traits<wchar_t>>>::do_put(_OutIt,std::ios_base &,_Elem,__int64) const'
+          with
+          [
+              _OutIt=std::ostreambuf_iterator<wchar_t,std::char_traits<wchar_t>>,
+              _Elem=wchar_t
+          ]
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocnum(1372): warning C4774: 'sprintf_s' : la cadena de formato esperada en el argumento 3 no es un literal de cadena
+  S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocnum(1372): note: por ejemplo, en lugar de printf(name); utilice printf ("%s", name); porque los especificadores de formato en 'name' pueden suponer un problema de seguridad
+  S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocnum(1372): note: considere el uso del especificador constexpr para literales de cadena con nombre
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocnum(1363): warning C4365: 'argumento': conversión de 'int' en '::size_t'; no coinciden signed/unsigned
+  S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocnum(1358): note: durante la compilación de la función miembro de plantilla clase de 'std::ostreambuf_iterator<wchar_t,std::char_traits<wchar_t>> std::num_put<wchar_t,std::ostreambuf_iterator<wchar_t,std::char_traits<wchar_t>>>::do_put(_OutIt,std::ios_base &,_Elem,unsigned long) const'
+          with
+          [
+              _OutIt=std::ostreambuf_iterator<wchar_t,std::char_traits<wchar_t>>,
+              _Elem=wchar_t
+          ]
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocnum(1362): warning C4774: 'sprintf_s' : la cadena de formato esperada en el argumento 3 no es un literal de cadena
+  S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocnum(1362): note: por ejemplo, en lugar de printf(name); utilice printf ("%s", name); porque los especificadores de formato en 'name' pueden suponer un problema de seguridad
+  S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocnum(1362): note: considere el uso del especificador constexpr para literales de cadena con nombre
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocnum(1353): warning C4365: 'argumento': conversión de 'int' en '::size_t'; no coinciden signed/unsigned
+  S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocnum(1348): note: durante la compilación de la función miembro de plantilla clase de 'std::ostreambuf_iterator<wchar_t,std::char_traits<wchar_t>> std::num_put<wchar_t,std::ostreambuf_iterator<wchar_t,std::char_traits<wchar_t>>>::do_put(_OutIt,std::ios_base &,_Elem,long) const'
+          with
+          [
+              _OutIt=std::ostreambuf_iterator<wchar_t,std::char_traits<wchar_t>>,
+              _Elem=wchar_t
+          ]
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocnum(1352): warning C4774: 'sprintf_s' : la cadena de formato esperada en el argumento 3 no es un literal de cadena
+  S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocnum(1352): note: por ejemplo, en lugar de printf(name); utilice printf ("%s", name); porque los especificadores de formato en 'name' pueden suponer un problema de seguridad
+  S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocnum(1352): note: considere el uso del especificador constexpr para literales de cadena con nombre
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\streambuf(592): warning C4820: 'std::istreambuf_iterator<wchar_t,std::char_traits<wchar_t>>': '1' bytes de relleno agregados después de miembro de datos 'std::istreambuf_iterator<wchar_t,std::char_traits<wchar_t>>::_Got'
+  S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocnum(667): note: vea la referencia a la creación de instancias de plantilla clase de 'std::istreambuf_iterator<wchar_t,std::char_traits<wchar_t>>' que se está compilando
+  S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocnum(667): note: durante la compilación de la función miembro de plantilla clase de 'std::istreambuf_iterator<wchar_t,std::char_traits<wchar_t>> std::num_get<wchar_t,std::istreambuf_iterator<wchar_t,std::char_traits<wchar_t>>>::do_get(_InIt,_InIt,std::ios_base &,std::ios_base::iostate &,void *&) const'
+          with
+          [
+              _InIt=std::istreambuf_iterator<wchar_t,std::char_traits<wchar_t>>
+          ]
+  S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocnum(1667): note: vea la referencia a la creación de instancias de plantilla clase de 'std::num_get<wchar_t,std::istreambuf_iterator<wchar_t,std::char_traits<wchar_t>>>' que se está compilando
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocnum(447): warning C4365: '=': conversión de 'const unsigned long' en 'int'; no coinciden signed/unsigned
+  S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocnum(425): note: durante la compilación de la función miembro de plantilla clase de 'std::istreambuf_iterator<wchar_t,std::char_traits<wchar_t>> std::num_get<wchar_t,std::istreambuf_iterator<wchar_t,std::char_traits<wchar_t>>>::do_get(_InIt,_InIt,std::ios_base &,std::ios_base::iostate &,bool &) const'
+          with
+          [
+              _InIt=std::istreambuf_iterator<wchar_t,std::char_traits<wchar_t>>
+          ]
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\streambuf(675): warning C4820: 'std::ostreambuf_iterator<char,std::char_traits<char>>': '3' bytes de relleno agregados después de miembro de datos 'std::ostreambuf_iterator<char,std::char_traits<char>>::_Failed'
+  S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocnum(1436): note: vea la referencia a la creación de instancias de plantilla clase de 'std::ostreambuf_iterator<char,std::char_traits<char>>' que se está compilando
+  S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocnum(1436): note: durante la compilación de la función miembro de plantilla clase de 'std::ostreambuf_iterator<char,std::char_traits<char>> std::num_put<char,std::ostreambuf_iterator<char,std::char_traits<char>>>::do_put(_OutIt,std::ios_base &,_Elem,const void *) const'
+          with
+          [
+              _OutIt=std::ostreambuf_iterator<char,std::char_traits<char>>,
+              _Elem=char
+          ]
+  S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocnum(1663): note: vea la referencia a la creación de instancias de plantilla clase de 'std::num_put<char,std::ostreambuf_iterator<char,std::char_traits<char>>>' que se está compilando
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\streambuf(593): warning C4820: 'std::istreambuf_iterator<char,std::char_traits<char>>': '2' bytes de relleno agregados después de miembro de datos 'std::istreambuf_iterator<char,std::char_traits<char>>::_Val'
+  S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocnum(667): note: vea la referencia a la creación de instancias de plantilla clase de 'std::istreambuf_iterator<char,std::char_traits<char>>' que se está compilando
+  S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocnum(667): note: durante la compilación de la función miembro de plantilla clase de 'std::istreambuf_iterator<char,std::char_traits<char>> std::num_get<char,std::istreambuf_iterator<char,std::char_traits<char>>>::do_get(_InIt,_InIt,std::ios_base &,std::ios_base::iostate &,void *&) const'
+          with
+          [
+              _InIt=std::istreambuf_iterator<char,std::char_traits<char>>
+          ]
+  S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocnum(1661): note: vea la referencia a la creación de instancias de plantilla clase de 'std::num_get<char,std::istreambuf_iterator<char,std::char_traits<char>>>' que se está compilando
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xutility(3634): warning C4365: 'inicializando': conversión de 'int' en '::size_t'; no coinciden signed/unsigned
+  S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xutility(3624): note: durante la compilación de la función miembro de plantilla clase de 'std::_Yarn<wchar_t> &std::_Yarn<wchar_t>::operator =(const _Elem *)'
+          with
+          [
+              _Elem=wchar_t
+          ]
+  S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocinfo(190): note: vea la referencia a la creación de instancias de plantilla de función 'std::_Yarn<wchar_t> &std::_Yarn<wchar_t>::operator =(const _Elem *)' que se está compilando
+          with
+          [
+              _Elem=wchar_t
+          ]
+  S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocinfo(229): note: vea la referencia a la creación de instancias de plantilla clase de 'std::_Yarn<wchar_t>' que se está compilando
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocnum(1579): warning C4365: 'inicializando': conversión de 'int' en '::size_t'; no coinciden signed/unsigned
+  S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocnum(1577): note: durante la compilación de la función miembro de plantilla clase de 'std::ostreambuf_iterator<wchar_t,std::char_traits<wchar_t>> std::num_put<wchar_t,std::ostreambuf_iterator<wchar_t,std::char_traits<wchar_t>>>::_Iput(_OutIt,std::ios_base &,_Elem,char *,::size_t) const'
+          with
+          [
+              _OutIt=std::ostreambuf_iterator<wchar_t,std::char_traits<wchar_t>>,
+              _Elem=wchar_t
+          ]
+  S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocnum(1439): note: vea la referencia a la creación de instancias de plantilla de función 'std::ostreambuf_iterator<wchar_t,std::char_traits<wchar_t>> std::num_put<wchar_t,std::ostreambuf_iterator<wchar_t,std::char_traits<wchar_t>>>::_Iput(_OutIt,std::ios_base &,_Elem,char *,::size_t) const' que se está compilando
+          with
+          [
+              _OutIt=std::ostreambuf_iterator<wchar_t,std::char_traits<wchar_t>>,
+              _Elem=wchar_t
+          ]
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocnum(1478): warning C4365: 'inicializando': conversión de 'int' en '::size_t'; no coinciden signed/unsigned
+  S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocnum(1476): note: durante la compilación de la función miembro de plantilla clase de 'std::ostreambuf_iterator<wchar_t,std::char_traits<wchar_t>> std::num_put<wchar_t,std::ostreambuf_iterator<wchar_t,std::char_traits<wchar_t>>>::_Fput(_OutIt,std::ios_base &,_Elem,const char *,::size_t) const'
+          with
+          [
+              _OutIt=std::ostreambuf_iterator<wchar_t,std::char_traits<wchar_t>>,
+              _Elem=wchar_t
+          ]
+  S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocnum(1431): note: vea la referencia a la creación de instancias de plantilla de función 'std::ostreambuf_iterator<wchar_t,std::char_traits<wchar_t>> std::num_put<wchar_t,std::ostreambuf_iterator<wchar_t,std::char_traits<wchar_t>>>::_Fput(_OutIt,std::ios_base &,_Elem,const char *,::size_t) const' que se está compilando
+          with
+          [
+              _OutIt=std::ostreambuf_iterator<wchar_t,std::char_traits<wchar_t>>,
+              _Elem=wchar_t
+          ]
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocnum(749): warning C4365: 'inicializando': conversión de 'int' en '::size_t'; no coinciden signed/unsigned
+  S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocnum(692): note: durante la compilación de la función miembro de plantilla clase de 'int std::num_get<wchar_t,std::istreambuf_iterator<wchar_t,std::char_traits<wchar_t>>>::_Getifld(char *,_InIt &,_InIt &,std::ios_base::fmtflags,const std::locale &) const'
+          with
+          [
+              _InIt=std::istreambuf_iterator<wchar_t,std::char_traits<wchar_t>>
+          ]
+  S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xlocnum(672): note: vea la referencia a la creación de instancias de plantilla de función 'int std::num_get<wchar_t,std::istreambuf_iterator<wchar_t,std::char_traits<wchar_t>>>::_Getifld(char *,_InIt &,_InIt &,std::ios_base::fmtflags,const std::locale &) const' que se está compilando
+          with
+          [
+              _InIt=std::istreambuf_iterator<wchar_t,std::char_traits<wchar_t>>
+          ]
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xstring(2415): warning C4365: 'argumento': conversión de 'int' en 'const unsigned int'; no coinciden signed/unsigned
+  S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xstring(2412): note: durante la compilación de la función miembro de plantilla clase de 'std::basic_string<char32_t,std::char_traits<char32_t>,std::allocator<char32_t>> &std::basic_string<char32_t,std::char_traits<char32_t>,std::allocator<char32_t>>::assign(const _Elem *const ,const unsigned int)'
+          with
+          [
+              _Elem=char32_t
+          ]
+  S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xstring(1967): note: vea la referencia a la creación de instancias de plantilla de función 'std::basic_string<char32_t,std::char_traits<char32_t>,std::allocator<char32_t>> &std::basic_string<char32_t,std::char_traits<char32_t>,std::allocator<char32_t>>::assign(const _Elem *const ,const unsigned int)' que se está compilando
+          with
+          [
+              _Elem=char32_t
+          ]
+  S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\string(650): note: vea la referencia a la creación de instancias de plantilla clase de 'std::basic_string<char32_t,std::char_traits<char32_t>,std::allocator<char32_t>>' que se está compilando
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xstring(2324): warning C4365: 'argumento': conversión de 'int' en 'const unsigned int'; no coinciden signed/unsigned
+  S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xstring(2321): note: durante la compilación de la función miembro de plantilla clase de 'std::basic_string<char,std::char_traits<char>,std::allocator<char>> &std::basic_string<char,std::char_traits<char>,std::allocator<char>>::append(const _Elem *const ,const unsigned int)'
+          with
+          [
+              _Elem=char
+          ]
+  S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xstring(2344): note: vea la referencia a la creación de instancias de plantilla de función 'std::basic_string<char,std::char_traits<char>,std::allocator<char>> &std::basic_string<char,std::char_traits<char>,std::allocator<char>>::append(const _Elem *const ,const unsigned int)' que se está compilando
+          with
+          [
+              _Elem=char
+          ]
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\string(510): warning C4365: 'argumento': conversión de 'int' en 'const unsigned int'; no coinciden signed/unsigned
+  S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\string(564): note: vea la referencia a la creación de instancias de plantilla de función 'std::string std::_Floating_to_string<float>(const char *,_Ty)' que se está compilando
+          with
+          [
+              _Ty=float
+          ]
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\string(511): warning C4365: 'argumento': conversión de 'int' en 'const ::size_t'; no coinciden signed/unsigned
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\string(512): warning C4365: 'argumento': conversión de 'int' en 'const unsigned int'; no coinciden signed/unsigned
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\string(509): warning C4774: '_scprintf' : la cadena de formato esperada en el argumento 1 no es un literal de cadena
+  S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\string(509): note: por ejemplo, en lugar de printf(name); utilice printf ("%s", name); porque los especificadores de formato en 'name' pueden suponer un problema de seguridad
+  S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\string(509): note: considere el uso del especificador constexpr para literales de cadena con nombre
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\string(511): warning C4774: 'sprintf_s' : la cadena de formato esperada en el argumento 3 no es un literal de cadena
+  S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\string(511): note: por ejemplo, en lugar de printf(name); utilice printf ("%s", name); porque los especificadores de formato en 'name' pueden suponer un problema de seguridad
+  S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\string(511): note: considere el uso del especificador constexpr para literales de cadena con nombre
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\string(523): warning C4365: 'argumento': conversión de 'int' en 'const unsigned int'; no coinciden signed/unsigned
+  S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\string(610): note: vea la referencia a la creación de instancias de plantilla de función 'std::wstring std::_Floating_to_wstring<float>(const wchar_t *,_Ty)' que se está compilando
+          with
+          [
+              _Ty=float
+          ]
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\string(524): warning C4365: 'argumento': conversión de 'int' en 'const ::size_t'; no coinciden signed/unsigned
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\string(525): warning C4365: 'argumento': conversión de 'int' en 'const unsigned int'; no coinciden signed/unsigned
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\string(522): warning C4774: '_scwprintf' : la cadena de formato esperada en el argumento 1 no es un literal de cadena
+  S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\string(522): note: por ejemplo, en lugar de printf(name); utilice printf ("%s", name); porque los especificadores de formato en 'name' pueden suponer un problema de seguridad
+  S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\string(522): note: considere el uso del especificador constexpr para literales de cadena con nombre
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\string(524): warning C4774: 'swprintf_s' : la cadena de formato esperada en el argumento 3 no es un literal de cadena
+  S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\string(524): note: por ejemplo, en lugar de printf(name); utilice printf ("%s", name); porque los especificadores de formato en 'name' pueden suponer un problema de seguridad
+  S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\string(524): note: considere el uso del especificador constexpr para literales de cadena con nombre
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\ostream(149): warning C4820: 'std::basic_ostream<char,std::char_traits<char>>::sentry': '3' bytes de relleno agregados después de miembro de datos 'std::basic_ostream<char,std::char_traits<char>>::sentry::_Ok'
+  S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\ostream(779): note: vea la referencia a la creación de instancias de plantilla clase de 'std::basic_ostream<char,std::char_traits<char>>::sentry' que se está compilando
+  S:\RuchasEngine\src\main.cpp(30): note: vea la referencia a la creación de instancias de plantilla de función 'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const char *)' que se está compilando
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\string(463): warning C4365: '=': conversión de '_Uint32t' en 'char'; no coinciden signed/unsigned
+  S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\string(494): note: vea la referencia a la creación de instancias de plantilla de función '_Elem *std::_UIntegral_to_buff<_Elem,_UTy>(_Elem *,_UTy)' que se está compilando
+          with
+          [
+              _Elem=char,
+              _UTy=_UTy
+          ]
+  S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\string(534): note: vea la referencia a la creación de instancias de plantilla de función 'std::basic_string<char,std::char_traits<char>,std::allocator<char>> std::_Integral_to_string<char,int>(const _Ty)' que se está compilando
+          with
+          [
+              _Ty=int
+          ]
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\string(475): warning C4365: '=': conversión de '_Uint32t' en 'char'; no coinciden signed/unsigned
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xstring(2040): warning C4365: 'argumento': conversión de 'int' en 'const unsigned int'; no coinciden signed/unsigned
+  S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xstring(2037): note: durante la compilación de la función miembro de plantilla clase de 'void std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>::_Construct(_Elem *const ,_Elem *const ,std::random_access_iterator_tag)'
+          with
+          [
+              _Elem=wchar_t
+          ]
+  S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xstring(2013): note: vea la referencia a la creación de instancias de plantilla de función 'void std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>::_Construct(_Elem *const ,_Elem *const ,std::random_access_iterator_tag)' que se está compilando
+          with
+          [
+              _Elem=wchar_t
+          ]
+S:\RuchasEngine\src\main.cpp(78): warning C4710: 'int swprintf_s(wchar_t *const ,const ::size_t,const wchar_t *const ,...)': la función no está entre líneas
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.14393.0\ucrt\corecrt_wstdio.h(1530): note: vea la declaración de 'swprintf_s'
+S:\RuchasEngine\src\main.cpp(78): warning C4710: 'int _scwprintf(const wchar_t *const ,...)': la función no está entre líneas
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.14393.0\ucrt\corecrt_wstdio.h(1761): note: vea la declaración de '_scwprintf'
+S:\RuchasEngine\src\main.cpp(78): warning C4710: 'int printf(const char *const ,...)': la función no está entre líneas
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.14393.0\ucrt\stdio.h(943): note: vea la declaración de 'printf'
+S:\RuchasEngine\src\main.cpp(78): warning C4710: 'int sprintf_s(char *const ,const ::size_t,const char *const ,...)': la función no está entre líneas
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.14393.0\ucrt\stdio.h(1826): note: vea la declaración de 'sprintf_s'
+S:\RuchasEngine\src\main.cpp(78): warning C4710: 'int _scprintf(const char *const ,...)': la función no está entre líneas
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.14393.0\ucrt\stdio.h(2091): note: vea la declaración de '_scprintf'
+S:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\exception(366): warning C4577: si se usa 'noexcept' sin ningún modo de control de excepciones especificado, la finalización de la excepción no está garantizada. Especifique /EHsc
+  core.vcxproj -> S:\RuchasEngine\build\Debug\core.exe

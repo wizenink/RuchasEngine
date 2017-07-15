@@ -42,5 +42,7 @@ public:
      */
     int shouldClose() const;
 
+	void clear();
+
 };
 #endif //RUCHAS_CORE_WINDOW_H
